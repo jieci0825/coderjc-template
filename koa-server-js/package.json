@@ -1,8 +1,8 @@
 {
-    "name": "koa-quick",
+    "name": "koa-server-js",
     "version": "1.0.0",
     "main": "app.js",
-    "description": "一个非常简单的koa2项目模板",
+    "description": "用于开发的koa服务器模板(JS)",
     "scripts": {
         "start": "nodemon"
     },
