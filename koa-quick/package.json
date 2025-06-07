@@ -1,0 +1,16 @@
+{
+    "name": "koa-quick",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon"
+    },
+    "dependencies": {
+        "nodemon": "^3.1.1",
+        "koa": "^2.15.3",
+        "koa-router": "^12.0.1",
+        "koa-body": "^6.0.1",
+        "@koa/cors": "^5.0.0",
+        "koa-static": "^5.0.0"
+    }
+}
