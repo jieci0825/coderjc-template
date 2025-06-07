@@ -2,7 +2,7 @@
     "name": "koa-quick",
     "version": "1.0.0",
     "main": "app.js",
-    "description": "一个非常简单的koa2项目模板",
+    "description": "一个非常简单的koa项目模板",
     "scripts": {
         "start": "nodemon"
     },
